@@ -1,0 +1,5 @@
+LIVEKIT_URL=wss://xxxxx-xxxxx.livekit.cloud
+LIVEKIT_API_KEY=xxxxx
+LIVEKIT_API_SECRET=xxxxxx
+ROOM_NAME=xxxxxx
+PARTICIPANT_IDENTITY=Bot
